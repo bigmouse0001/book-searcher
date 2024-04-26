@@ -44,7 +44,7 @@ const Search: React.FC<SearchProps> = ({ setBooks }) => {
         language,
         isbn,
         query: complexQuery,
-        limit: 1000
+        limit: 5000
       };
 
       search(rmEmptyString(query)).then((books) => {
