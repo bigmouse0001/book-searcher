@@ -25,7 +25,7 @@ export function parseIpfsGateways(text: string) {
 
 export function getDownloadLinkFromIPFS(gateway: string, book: Book) {
   return (
-    `${gateway}/ipfs/${book.ipfs_cid}?filename=` +
+    `${gateway}/${book.ipfs_cid}?filename=` +
     encodeURIComponent(`${book.title}_${book.author}.${book.extension}`)
   );
 }
