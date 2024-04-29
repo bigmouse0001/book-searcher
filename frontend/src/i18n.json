@@ -95,23 +95,23 @@
         "previous_page": "上一页",
         "page": "第 {{page}} 页",
         "collapse": "收起",
-        "preview": "预览",
-        "redirect2aa": "Anna's Archive"
+        "preview": "",
+        "redirect2aa": ""
       },
       "search": {
-        "complex": "复杂搜索"
+        "complex": "复杂搜索，输入书名，作者，出版社等，以空格隔开。"
       },
       "settings": {
         "title": "设置",
-        "ipfs_gateways": "IPFS 网关",
-        "ipfs_gateways_help": "IPFS 网关列表，一行一个",
+        "ipfs_gateways": "仅供个人检索书目，无下载功能。",
+        "ipfs_gateways_help": "仅供个人检索书目，无下载功能。",
         "cancel": "取消",
         "save": "保存"
       },
-      "auto_download": "竞速下载",
-      "download_success": "下载成功",
-      "download_failed": "下载失败",
-      "download_start": "开始下载",
+      "auto_download": "仅供个人检索书目，无下载功能。",
+      "download_success": "仅供个人检索书目，无下载功能。",
+      "download_failed": "仅供个人检索书目，无下载功能。",
+      "download_start": "仅供个人检索书目，无下载功能。",
       "copied": "已复制"
     }
   },
