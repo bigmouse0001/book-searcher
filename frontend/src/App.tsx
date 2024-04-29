@@ -83,7 +83,7 @@ const App: React.FC = () => {
 
         <Spacer />
         <Footer>
-          <ExternalLink href={repository}>以仁心为己任，虽道远而弥厉。</ExternalLink> v{version} ©2024
+          <ExternalLink href={repository}>仅供个人检索书目。</ExternalLink> v{version} ©2023
         </Footer>
       </Flex>
     </RootContext.Provider>
