@@ -15,7 +15,7 @@ export default async function getIpfsGateways() {
   } else {
     const ipfsGateways: string[] = JSON.parse(
       localStorage.getItem('ipfs_gateways') ||
-        '[""]'
+        ''
     );
     return ipfsGateways;
   }
