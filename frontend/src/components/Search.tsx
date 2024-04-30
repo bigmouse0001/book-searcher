@@ -36,6 +36,7 @@ const extensionOptions = [
   { value: 'azw3', label: 'azw3', colorScheme: 'purple' },
   { value: 'mobi', label: 'mobi', colorScheme: 'gray' },
   { value: 'pdf', label: 'pdf', colorScheme: 'yellow' },
+  { value: 'djvu', label: 'djvu', colorScheme: 'pink' },
   { value: 'txt', label: 'txt', colorScheme: 'green' }
 ];
 
