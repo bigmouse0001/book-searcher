@@ -37,6 +37,9 @@ const extensionOptions = [
   { value: 'mobi', label: 'mobi', colorScheme: 'gray' },
   { value: 'pdf', label: 'pdf', colorScheme: 'yellow' },
   { value: 'djvu', label: 'djvu', colorScheme: 'pink' },
+  { value: 'zip', label: 'djvu', colorScheme: 'yellow' },
+  { value: 'uvz', label: 'djvu', colorScheme: 'teal' },
+  { value: 'rar', label: 'djvu', colorScheme: 'cyan' },
   { value: 'txt', label: 'txt', colorScheme: 'green' }
 ];
 
