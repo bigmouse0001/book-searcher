@@ -16,8 +16,8 @@ const extensionColorSchemes: { [key: string]: string } = {
   azw3: 'purple',
   mobi: 'gray',
   pdf: 'yellow',
-  txt: 'green',
   djvu: 'pink',
+  txt: 'green',
   htm: 'teal'
 };
 
