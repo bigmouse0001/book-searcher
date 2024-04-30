@@ -17,8 +17,10 @@ const extensionColorSchemes: { [key: string]: string } = {
   mobi: 'gray',
   pdf: 'yellow',
   djvu: 'pink',
-  txt: 'green',
-  htm: 'teal'
+  zip: 'yellow',
+  uvz: 'teal',
+  rar: 'cyan',
+  txt: 'green'
 };
 
 const languageColorSchemes: { [key: string]: string } = {
